@@ -1,0 +1,90 @@
+# name = input('Enter your name:')
+# print(name)
+
+# name_1 =float(input("Enter the second number"))
+# name_2 = float(input("Enter the first nummber:"))
+
+# result = name_1 + name_2
+# print(result)
+# print(type(result))
+
+# # name_1 = float(name_1)
+# # name_2 = float(name_2)
+
+# a = 23
+# b = 24 
+# c = 2
+
+# print(a>b and b == c)
+
+
+# username =input("Enter your username:") 
+# password = int(input("Enter your password"))
+# if username == "addmin" and password ==1234:
+#     print(f"welcome {username} your are logged in.")
+
+# else:
+#     print("invalid credentials")
+
+# temp = 30
+
+
+# if temp ==30 and 'condition'.lower() =="sunny":
+#  print(f"the temp is {temp} degrees and it is {'condition'}")
+# else:
+#     print(f"it is cold")
+ 
+#     day = ("enter day:").lower()
+# if day == "monday":
+#    print("wear uniform")
+# elif day =="tuesday":
+#    print("wear garments")
+# elif day =="wednesday":
+#    print("casual")  
+# elif day == "thursday":
+#    print("wear formal")
+
+#    days = ["monday","tuesday","wednesday","thursday","friday"]
+#    print("days")
+
+# score = float(input("Enter the student's score (0-100): "))
+
+# if score >= 90:
+#     print = "A"
+# elif score >= 80:
+#     print = "B"
+# elif score >= 70:
+#     print = "C"
+# elif score >= 60:
+#     print = "D"
+# else: score >= 50
+# print = "F"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+

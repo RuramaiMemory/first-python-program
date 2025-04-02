@@ -1,0 +1,29 @@
+# # if stacement example
+
+# register=""
+# name="ruramai"
+# if register ==  "pretsent":
+#     print(f"{name} is {register}")
+# else:
+
+#    print(f"{name} is absent")
+
+#    x= 2
+# if x > 5:
+#        print(f"{x} is equal to 5")
+ 
+#        print(f"{x} is less than 5")
+
+        
+
+# username = "admin" 
+# password = 1234
+
+# if password == 1234:
+#       print(f"Welcome {username}")
+# else:
+#      print(F"invalid password")
+
+
+     
+
